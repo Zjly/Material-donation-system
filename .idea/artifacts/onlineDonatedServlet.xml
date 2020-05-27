@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="onlineDonatedServlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/onlineDonatedServlet</output-path>
+    <root id="archive" name="onlineDonatedServlet.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/out/artifacts/servlet_war_exploded" />
+    </root>
+  </artifact>
+</component>

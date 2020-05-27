@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="onlineDonatedServlet" />
+      <artifact name="servlet:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3c97c2c-b5f4-48cb-9cca-990e398f328b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/servlet$servlet.ic" NAME="servlet Coverage Results" MODIFIED="1587189145592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/web/UserNeedServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="889">
+              <caret line="99" column="8" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/web/ManagerServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/web/ClientNeedServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/web/OrderServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/checkout1.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="292" column="18" selection-start-line="292" selection-start-column="18" selection-end-line="292" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/web/UserServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="174" column="42" selection-start-line="174" selection-start-column="42" selection-end-line="174" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/service/DetailService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pojo/detail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pojo/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-170">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pojo/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Tag Library Descriptor" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>manager</find>
+      <find>user</find>
+      <find>orderservlet</find>
+      <find>showCheckout</find>
+      <find>目标</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>manage</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/utils/JdbcUtils.java" />
+        <option value="$PROJECT_DIR$/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/com/web/UserNeedServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/web/UserServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/web/OrderServlet.java" />
+        <option value="$PROJECT_DIR$/web/checkout1.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="37" />
+    <option name="width" value="734" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectId" id="1ZZ8bUU1bDU4ctinviopan1YWAk" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590463756203" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/servlet" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.atguigu.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\javaworks\Desktop\servlet\web" />
+      <recent name="E:\javaworks\Desktop\servlet\web\WEB-INF\lib" />
+      <recent name="E:\javaworks\Desktop\servlet\web\js" />
+      <recent name="E:\javaworks\Desktop\servlet\web\css" />
+      <recent name="E:\javaworks\Desktop\servlet\web\manager" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javaworks\Desktop\servlet\src\com\service\impl" />
+      <recent name="E:\javaworks\Desktop\servlet\src\com\service" />
+      <recent name="E:\javaworks\Desktop\servlet\src\com\dao\impl" />
+      <recent name="E:\javaworks\Desktop\servlet\src\com\dao" />
+      <recent name="E:\javaworks\Desktop\servlet\src\com\pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.servlet">
+    <configuration name="AddressDaoImplTest.addAddress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.AddressDaoImplTest" />
+      <option name="METHOD_NAME" value="addAddress" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddressDaoImplTest.deleteAddressById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.AddressDaoImplTest" />
+      <option name="METHOD_NAME" value="deleteAddressById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookDaoImplTest.queryForPageItemsByprice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.BookDaoImplTest" />
+      <option name="METHOD_NAME" value="queryForPageItemsByprice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookDaoImplTest.queryForPageTotalCountByPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.BookDaoImplTest" />
+      <option name="METHOD_NAME" value="queryForPageTotalCountByPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookDaoTest.addBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.BookDaoTest" />
+      <option name="METHOD_NAME" value="addBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_servlet" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52101" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="servlet" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.53" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="onlineDonatedServlet">
+          <settings>
+            <option name="CONTEXT_PATH" value="/onlineDonatedServlet" />
+          </settings>
+        </artifact>
+        <artifact name="servlet:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/servlet_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_servlet" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62248" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="onlineDonatedServlet" />
+          <artifact name="servlet:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BookDaoImplTest.queryForPageItemsByprice" />
+      <item itemvalue="JUnit.BookDaoImplTest.queryForPageTotalCountByPrice" />
+      <item itemvalue="JUnit.AddressDaoImplTest.addAddress" />
+      <item itemvalue="JUnit.AddressDaoImplTest.deleteAddressById" />
+      <item itemvalue="JUnit.BookDaoTest.addBook" />
+      <item itemvalue="Tomcat Server.servlet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookDaoTest.addBook" />
+        <item itemvalue="JUnit.AddressDaoImplTest.deleteAddressById" />
+        <item itemvalue="JUnit.AddressDaoImplTest.addAddress" />
+        <item itemvalue="JUnit.BookDaoImplTest.queryForPageTotalCountByPrice" />
+        <item itemvalue="JUnit.BookDaoImplTest.queryForPageItemsByprice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.22472678" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3c97c2c-b5f4-48cb-9cca-990e398f328b" name="Default Changelist" comment="" />
+      <created>1585035326819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585035326819</updated>
+      <workItem from="1585035331368" duration="1070000" />
+      <workItem from="1585039834603" duration="3306000" />
+      <workItem from="1585106778467" duration="10945000" />
+      <workItem from="1585205045139" duration="3144000" />
+      <workItem from="1585208208355" duration="7025000" />
+      <workItem from="1585380906383" duration="883000" />
+      <workItem from="1585471031180" duration="4000" />
+      <workItem from="1585471537250" duration="21000" />
+      <workItem from="1585471588562" duration="277000" />
+      <workItem from="1585472687838" duration="1181000" />
+      <workItem from="1585536904727" duration="5969000" />
+      <workItem from="1585643925169" duration="3601000" />
+      <workItem from="1586434123492" duration="209000" />
+      <workItem from="1586434350857" duration="87000" />
+      <workItem from="1586434456010" duration="505000" />
+      <workItem from="1586434986652" duration="156000" />
+      <workItem from="1586435157976" duration="112000" />
+      <workItem from="1586435689283" duration="2117000" />
+      <workItem from="1586743516705" duration="18202000" />
+      <workItem from="1586781654782" duration="5173000" />
+      <workItem from="1586827282452" duration="24027000" />
+      <workItem from="1586920596115" duration="2511000" />
+      <workItem from="1586931355662" duration="15874000" />
+      <workItem from="1587005637061" duration="3942000" />
+      <workItem from="1587019598533" duration="13542000" />
+      <workItem from="1587041790156" duration="34000" />
+      <workItem from="1587086210212" duration="10265000" />
+      <workItem from="1587106919581" duration="10689000" />
+      <workItem from="1587123998613" duration="2118000" />
+      <workItem from="1587126380176" duration="5542000" />
+      <workItem from="1587182748311" duration="16649000" />
+      <workItem from="1587212654604" duration="3980000" />
+      <workItem from="1587262244173" duration="27429000" />
+      <workItem from="1587347453356" duration="1430000" />
+      <workItem from="1587354151077" duration="19981000" />
+      <workItem from="1589253644778" duration="13457000" />
+      <workItem from="1589334206827" duration="18797000" />
+      <workItem from="1589423638808" duration="13715000" />
+      <workItem from="1589511568643" duration="1346000" />
+      <workItem from="1589787533131" duration="2843000" />
+      <workItem from="1589856866982" duration="8292000" />
+      <workItem from="1589943614732" duration="11831000" />
+      <workItem from="1590029000085" duration="198000" />
+      <workItem from="1590029213281" duration="13000" />
+      <workItem from="1590029252260" duration="16388000" />
+      <workItem from="1590110986420" duration="7220000" />
+      <workItem from="1590130445686" duration="18835000" />
+      <workItem from="1590197492340" duration="3373000" />
+      <workItem from="1590216534504" duration="6567000" />
+      <workItem from="1590230165984" duration="10670000" />
+      <workItem from="1590280409752" duration="8494000" />
+      <workItem from="1590301705035" duration="3060000" />
+      <workItem from="1590307094259" duration="11904000" />
+      <workItem from="1590325376186" duration="5672000" />
+      <workItem from="1590332237759" duration="2576000" />
+      <workItem from="1590368111818" duration="1639000" />
+      <workItem from="1590370026368" duration="3976000" />
+      <workItem from="1590375555793" duration="3221000" />
+      <workItem from="1590388541485" duration="2797000" />
+      <workItem from="1590391434441" duration="20447000" />
+      <workItem from="1590453294309" duration="5926000" />
+      <workItem from="1590460148928" duration="885000" />
+      <workItem from="1590462275892" duration="1563000" />
+      <workItem from="1590477185406" duration="2839000" />
+      <workItem from="1590493546667" duration="5005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5005000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="90" key="#HTTP_Proxy" timestamp="1585121608268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="90" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1585121608268" />
+    <state x="254" y="90" key="#Project_Structure" timestamp="1585231481435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="254" y="90" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585231481435" />
+    <state x="360" y="73" key="#Tomcat_Server" timestamp="1587212779291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="73" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1587212779291" />
+    <state x="-45" y="50" width="1089" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590301681457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-45" y="50" width="1089" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590301681457" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1590459375640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590459375640" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586436888840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1586436888840" />
+    <state x="481" y="358" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1585231480041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="358" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.824@0.0.1536.824" timestamp="1585231480041" />
+    <state x="349" y="70" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1586436886528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="70" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.824@0.0.1536.824" timestamp="1586436886528" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589894948643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589894948643" />
+    <state x="452" y="56" key="#servlet" timestamp="1590477217291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="56" key="#servlet/0.0.1536.824@0.0.1536.824" timestamp="1590477217291" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1590231135032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590231135032" />
+    <state width="1024" height="114" key="GridCell.Tab.-1.bottom" timestamp="1585220821355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="114" key="GridCell.Tab.-1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585220821355" />
+    <state width="1024" height="114" key="GridCell.Tab.-1.center" timestamp="1585220821355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="114" key="GridCell.Tab.-1.center/0.0.1536.824@0.0.1536.824" timestamp="1585220821355" />
+    <state width="1024" height="114" key="GridCell.Tab.-1.left" timestamp="1585220821354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="114" key="GridCell.Tab.-1.left/0.0.1536.824@0.0.1536.824" timestamp="1585220821354" />
+    <state width="1024" height="114" key="GridCell.Tab.-1.right" timestamp="1585220821355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="114" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1585220821355" />
+    <state width="1134" height="110" key="GridCell.Tab.0.bottom" timestamp="1590480028852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1134" height="110" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590480028852" />
+    <state width="1134" height="110" key="GridCell.Tab.0.center" timestamp="1590480028852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1134" height="110" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590480028852" />
+    <state width="1134" height="110" key="GridCell.Tab.0.left" timestamp="1590480028852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1134" height="110" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590480028852" />
+    <state width="1134" height="110" key="GridCell.Tab.0.right" timestamp="1590480028852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1134" height="110" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590480028852" />
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.1.bottom" timestamp="1590480028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590480028853" />
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.1.center" timestamp="1590480028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590480028853" />
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.1.left" timestamp="1590480028852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590480028852" />
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.1.right" timestamp="1590480028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590480028853" />
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.2.bottom" timestamp="1590480028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590480028853" />
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.2.center" timestamp="1590480028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1590480028853" />
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.2.left" timestamp="1590480028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1590480028853" />
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.2.right" timestamp="1590480028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="110" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1590480028853" />
+    <state x="338" y="405" width="1134" height="528" key="GridCell.Tab.3.bottom" timestamp="1590413016973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="528" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590413016973" />
+    <state x="338" y="405" width="1134" height="528" key="GridCell.Tab.3.center" timestamp="1590413016973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="528" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1590413016973" />
+    <state x="338" y="405" width="1134" height="528" key="GridCell.Tab.3.left" timestamp="1590413016973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="528" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1590413016973" />
+    <state x="338" y="405" width="1134" height="528" key="GridCell.Tab.3.right" timestamp="1590413016973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1134" height="528" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1590413016973" />
+    <state width="1024" height="171" key="GridCell.Tab.4.bottom" timestamp="1585381131600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="171" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585381131600" />
+    <state width="1024" height="171" key="GridCell.Tab.4.center" timestamp="1585381131599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="171" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1585381131599" />
+    <state width="1024" height="171" key="GridCell.Tab.4.left" timestamp="1585381131599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="171" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1585381131599" />
+    <state width="1024" height="171" key="GridCell.Tab.4.right" timestamp="1585381131599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="171" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1585381131599" />
+    <state x="30" y="0" key="SettingsEditor" timestamp="1590237726083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="30" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590237726083" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1590410917395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1590410917395" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1590453312256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590453312256" />
+    <state x="343" y="482" width="1038" height="151" key="dock-window-1" timestamp="1585220822811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="343" y="482" width="1038" height="151" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1585220822811" />
+    <state x="338" y="405" width="1038" height="151" key="dock-window-2" timestamp="1585231732339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1038" height="151" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1585231732339" />
+    <state x="338" y="405" width="1038" height="151" key="dock-window-3" timestamp="1585232097446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="405" width="1038" height="151" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1585232097446" />
+    <state x="178" y="28" key="new project wizard" timestamp="1587347524729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="28" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587347524729" />
+    <state x="511" y="35" key="refactoring.ChangeSignatureDialog" timestamp="1586868234247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="35" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586868234247" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590217631012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590217631012" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590408817941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590408817941" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/web/UserNeedServlet.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/utils/WebUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/utils/JdbcUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dao/CheckDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dao/NeedDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pojo/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pojo/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/customer-account.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="115" column="45" selection-start-line="115" selection-start-column="45" selection-end-line="115" selection-end-column="45" />
+          <folding>
+            <element signature="e#5530#5536#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/info-change.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1204">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/ManagerServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/ClientNeedServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pojo/detail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pojo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/service/DetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/UserNeedServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="889">
+          <caret line="99" column="8" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="174" column="42" selection-start-line="174" selection-start-column="42" selection-end-line="174" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/OrderServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/checkout1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="292" column="18" selection-start-line="292" selection-start-column="18" selection-end-line="292" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>onlineDonatedServlet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>servlet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
